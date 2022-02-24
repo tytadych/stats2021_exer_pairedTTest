@@ -1,5 +1,7 @@
 # Paired t-test Exercise
 
+See a video demonstration of this assignment here: https://youtu.be/kJo5qxKQKJ0
+
 ## Summary of steps to complete
 
 - [ ] Fork this repository so you have your own copy to work on.
